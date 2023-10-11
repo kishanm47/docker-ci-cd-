@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/app:latest
+          tags: kishanm47/testing:latest
